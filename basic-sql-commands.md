@@ -21,6 +21,12 @@ The `SELECT` command retrieves data from a database.
 
 **Example:**
 
+To select all records from the `Users` table:
+
+sql
+Copy code
+
+
 ```sql
 SELECT * FROM Users;
 ```
@@ -30,16 +36,22 @@ The `UPDATE` command modifies existing data in a table.
 
 **Example:**
 
+To update the email of a user:
+
 ```sql
 UPDATE Users
 SET Email = 'newemail@example.com'
 WHERE UserID = 1;
 ```
+
 ## DELETE
 
 The `DELETE` command removes records from a table.
 
 **Example:**
+
+To delete a user from the `Users` table:
+
 
 ```sql
 DELETE FROM Users

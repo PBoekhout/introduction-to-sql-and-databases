@@ -23,10 +23,6 @@ The `SELECT` command retrieves data from a database.
 
 To select all records from the `Users` table:
 
-sql
-Copy code
-
-
 ```sql
 SELECT * FROM Users;
 ```

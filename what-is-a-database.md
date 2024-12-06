@@ -6,6 +6,5 @@ For example, a store might use a database to keep track of all its products, how
 
 Because databases keep data neat and easy to access, they help businesses, organizations, and regular people work with information more efficiently. In short, a database helps turn large amounts of scattered data into well-organized information that’s ready when you need it.
 
----
 
 [← Back to Home](README.md) | [Next: Relational Databases](relational-databases.md)

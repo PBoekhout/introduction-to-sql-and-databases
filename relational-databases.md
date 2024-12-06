@@ -8,6 +8,6 @@ A **relational database** stores data in tables, which are structured with rows 
 - **Row (Record)**: A single data item in a table.
 - **Column (Field)**: A set of data values of a particular type.
 
----
+
 
 [← Previous: What is a Database?](what-is-a-database.md) | [Back to Home](README.md) | [Next: What is SQL?](what-is-sql.md)

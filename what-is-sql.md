@@ -10,6 +10,6 @@
 
 In other words, SQL is like the “common language” that lets you ask questions about your data and make changes to it in a clear, predictable way. It’s widely used in many industries, making it a valuable tool for anyone who needs to work with data.
 
----
+
 
 [← Previous: Relational Databases](relational-databases.md) | [Back to Home](README.md) | [Next: Basic SQL Commands](basic-sql-commands.md)

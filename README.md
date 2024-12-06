@@ -27,6 +27,6 @@ Beginners with no prior experience in SQL or databases who are interested in lea
 
 ## About the Author
 
-my name is Palmer and I am enthusiastic about data management and aims to make learning about databases accessible to everyone.
+My name is Palmer and I am enthusiastic about data management and aims to make learning about databases accessible to everyone. I hope to gain a job in the field one day as I love SQL.
  
 ---

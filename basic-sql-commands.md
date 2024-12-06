@@ -54,3 +54,4 @@ DELETE FROM Users
 WHERE UserID = 1;
 ```
 
+[← Previous: What is SQL?](what-is-sql.md) | [Back to Home](README.md) | [Next: Conclusion](conclusion.md)
